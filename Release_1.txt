@@ -1,0 +1,13 @@
+Release 1:
+=========================
+Java:
+	  i.      MicroService (Generic MicroService) For Auditing Purpose (Save,edit)
+	  ii.     Generic Script Execution (Call script Files)
+	  iii.    Call Any Job ( Swagger ---> Call 
+	  
+SQL :	  
+	  iii. Data Model For MIF(mmtech Ingestion Framework)
+	 
+Logging:
+         Log4j.	 
+	 
